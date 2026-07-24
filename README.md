@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 **▶ https://mindweaver74.github.io/Jutopia/**
 
-- 슈팅 · 리듬 · 무한런 · 두뇌 게임 등 12종
+- 슈팅 · 리듬 · 무한런 · 두뇌 게임 등 14종
 - 모바일 · PC 어디서든 터치/클릭 한 번으로 플레이
 - 순수 HTML5 / CSS / JavaScript — 프레임워크 없이 제작
 
