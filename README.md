@@ -9,7 +9,7 @@
 
 **▶ 지금 플레이: https://mindweaver74.github.io/Jutopia/**
 
-퇴근 후 시간을 쪼개 하나둘 만든 게임이 어느새 **14종**이 되었습니다.
+퇴근 후 시간을 쪼개 하나둘 만든 게임이 어느새 **15종**이 되었습니다.
 슈팅부터 리듬, 퍼즐, 무한런까지 — 출퇴근길 한 손 플레이에 최적화되어 있습니다.
 
 | 게임 | 장르 | 한 줄 소개 |
@@ -28,6 +28,7 @@
 | [🎤 비트박스 마스터](https://mindweaver74.github.io/beatbox/) | 리듬 | 사이퍼 피버 모드에서 터지는 손맛 |
 | [🕴️ 하늘 위로!](https://mindweaver74.github.io/jumpman/) | 점프 액션 | 발판을 밟고 끝없이 위로! |
 | [🔢 숫자 합치기](https://mindweaver74.github.io/puzzle2048/) | 퍼즐 | 밀고 합쳐서 더 큰 숫자로 |
+| [🟦 블록 블라스트](https://mindweaver74.github.io/blockblast/) | 블록 퍼즐 | 드래그로 블록을 놓고 줄을 완성하면 사라진다! |
 
 ## 🛠️ 도구
 
